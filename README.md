@@ -13,8 +13,8 @@ A real-time monitoring dashboard for tracking your AI Horde kudos, requests, and
 
 ```bash
 # Clone the repository
-git clone [your-repo-url]
-cd [repo-name]
+git clone https://github.com/MangoLion/aihorde-monitor.git
+cd aihorde-monitor
 
 # Install dependencies
 npm install
@@ -31,3 +31,14 @@ npm run dev
 ## Privacy
 
 The application runs entirely in your browser and makes direct API calls to AI Horde. No data is stored on any external servers, and your API key is never transmitted anywhere except to AI Horde's API endpoints.
+
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/mainUI.PNG)
+
+### Generation Details
+![Generation Details](screenshots/generation%20details.PNG)
+
+### Dark Mode
+![Dark Mode](screenshots/darkmode.PNG)
